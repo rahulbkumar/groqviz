@@ -14,7 +14,7 @@ This project processes and visualizes historical LM Arena leaderboard data to tr
 
 Static chart showing the evolution of top model scores by provider from November 2024 to September 2025.
 
-### Racing Bar Chart Animation
+### Racing Chart Animation
 
 ![LM Arena Racing Chart](lmarena_data/lmarena_racing_chart.gif)
 
