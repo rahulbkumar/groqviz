@@ -82,14 +82,14 @@ print("\nSaved top scores to 'lmarena_top_scores_by_provider.csv'")
 # Create the visualization
 fig, ax = plt.subplots(figsize=(14, 8))
 
-# Define colors for each provider
+# Define colors for each provider (ordered by period)
 colors = {
-    'Google': '#4285F4',      # Google Blue
-    'OpenAI': '#000000',      # Black for OpenAI
-    'DeepSeek': '#0B5563',    # Teal
-    'xAI': '#06B6D4',         # Cyan
-    'Anthropic': '#8B5CF6',   # Purple
-    'Mistral AI': '#DC2626'   # Red
+    'Google': '#f43e01',      # Period 1 - Dark red-orange
+    'OpenAI': '#fe9e20',      # Period 2 - Orange
+    'DeepSeek': '#ffd1a3',    # Period 3 - Light peach
+    'xAI': '#69695d',         # Period 4 - Dark gray
+    'Anthropic': '#cecebf',   # Period 5 - Light gray
+    'Mistral AI': '#f3f3ee'   # Period 6 - Very light beige
 }
 
 # Plot lines for each provider
