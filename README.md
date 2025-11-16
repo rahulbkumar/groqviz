@@ -1,4 +1,4 @@
-# LM Arena Leaderboard Tracker
+# LM Arena Leaderboard Tracker ⚡️
 
 A data analysis and visualization project tracking the performance of top AI language models across major providers on the LM Arena leaderboard.
 
