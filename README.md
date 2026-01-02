@@ -2,6 +2,8 @@
 
 A data analysis and visualization project tracking the performance of top AI language models across major providers on the LM Arena leaderboard.
 
+[![Watch the video](https://img.youtube.com/vi/JiAtZQJAJlk/maxresdefault.jpg)](https://youtu.be/JiAtZQJAJlk)
+
 ## Overview
 
 This project processes and visualizes historical LM Arena leaderboard data to track how the top models from major AI providers (Google, OpenAI, Anthropic, DeepSeek, xAI, and Mistral AI) have performed over time.
